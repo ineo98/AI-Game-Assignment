@@ -9,3 +9,9 @@ The actions that player can choose are jump and not jump. Game will end if playe
 The player will be displayed as mario and obstacle is displayed as fireball.
 
 ![alt text](resources/example.png?raw=true)
+
+## List of other possible project
+
+1. Learn to play snake with AI algorithm
+2. Space Invader with reinforcement learning
+3. TicTacToe game with minimax algorithm
