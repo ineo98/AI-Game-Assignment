@@ -8,6 +8,8 @@ The actions that player can choose are jump and not jump. Game will end if playe
 
 The player will be displayed as mario and obstacle is displayed as fireball.
 
+Standard score : 80
+
 ![alt text](resources/example.png?raw=true)
 
 ## List of other possible project
